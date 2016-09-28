@@ -6,8 +6,8 @@
     "files": [
       "index.html"
     ],
-    "url": "http://curran.github.io/screencasts/introToD3/examples/viewer/#/1",
-    "runUrl": "http://curran.github.io/screencasts/introToD3/examples/code/nnsnapshot01"
+    "url": "../viewer/#/1",
+    "runUrl": "../code/nnsnapshot01"
   },
   {
     "name": "nnsnapshot02",
