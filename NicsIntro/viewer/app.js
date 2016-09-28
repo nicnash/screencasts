@@ -122,9 +122,7 @@ app.controller('ExampleDetailCtrl',
     function ($scope, $routeParams, $http, $sce, examples){
   examples.find($routeParams.exampleNumber, function(example) {
     $scope.example = example;
-    // $scope.runUrl = '../code/' + example.name;
-    $scope.runUrl = example.runUrl;//'../code/' + example.name;
-    console.log('HERE------------',$scope.runUrl);
+    $scope.runUrl = '../code/' + example.name;
     $http.get($scope.runUrl + '/README.md').success(function(data) {
       // Remove first line, as it appears elsewhere on the page (called 'message').
       var md = data.split('\n').splice(1).join('\n');
@@ -153,8 +151,6 @@ app.directive('file', function(){
         $scope.example.name,
         $scope.file
       ].join('/');
-      console.log('codemirror is working path',path);
-      // var path = example.runUrl;
       $http.get(path).success(function(data) {
         if(typeof(data) === 'object'){
           // un-parse auto-parsed JSON files for presentation as text
