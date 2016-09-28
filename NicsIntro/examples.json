@@ -563,11 +563,11 @@
   {
     "name": "snapshot83",
     "number": 83,
-    "message": "logarithmic scales",
+    "message": "Lets Re CAP",
     "files": [
-      "index.html",
-      "countries_population_GDP.csv"
+      "index.html"
     ],
+    "isCodeHidden":true,
     "url": "http://curran.github.io/screencasts/introToD3/examples/viewer/#/83",
     "runUrl": "http://curran.github.io/screencasts/introToD3/examples/code/snapshot83"
   },

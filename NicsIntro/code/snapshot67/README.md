@@ -1,4 +1,3 @@
-Placeholder
 
 Using setTimeout
 

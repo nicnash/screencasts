@@ -1,5 +1,3 @@
-Placeholder
-
 visualizing cities
 
  * 1 million people per pixel

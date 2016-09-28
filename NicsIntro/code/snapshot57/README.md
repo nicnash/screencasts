@@ -1,5 +1,3 @@
-Placeholder
-
 D3 method chaining
 
 ## Why are these split up? Could we chain it all together?

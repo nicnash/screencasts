@@ -1,4 +1,3 @@
-Placeholder
 
 Functional simplification - Just pass in render
 

@@ -1,4 +1,3 @@
-Placeholder
 
 using a margin object
 

@@ -1,4 +1,3 @@
-Placeholder
 
 The complete D3 pipeline
 

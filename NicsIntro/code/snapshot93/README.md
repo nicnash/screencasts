@@ -1,5 +1,3 @@
-Placeholder
-
 specifying number of people per pixel
 
  * Exactly 1 million people per pixel.

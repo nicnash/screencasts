@@ -1,4 +1,3 @@
-Placeholder
 
 D3 ordinal scale
 

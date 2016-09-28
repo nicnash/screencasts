@@ -1,4 +1,3 @@
-Placeholder
 
 Parsing CSV data
 

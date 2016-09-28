@@ -1,4 +1,3 @@
-Placeholder
 
 Population vs. GDP
 

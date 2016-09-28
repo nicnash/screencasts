@@ -1,4 +1,3 @@
-Placeholder
 
 population true to size
 

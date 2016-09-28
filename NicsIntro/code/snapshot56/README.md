@@ -1,4 +1,3 @@
-Placeholder
 
 constructing DOM elements with D3
 

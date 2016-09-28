@@ -1,3 +1,2 @@
-Placeholder
 
 Drawing transparent rings

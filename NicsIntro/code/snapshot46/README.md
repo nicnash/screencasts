@@ -1,4 +1,3 @@
-Placeholder
 
 Loading CSV data
 ## What do you expect this to output?

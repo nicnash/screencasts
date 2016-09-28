@@ -1,7 +1,6 @@
-Placeholder
-
 Introducing the Iris data set
 
  * Each entry is an iris flower
+ * Depending on its traits (sepal length, width) can predict its species
+ * What if we dont know the range of data values?
  * From [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris)
- * Extent computed using D3 [min](https://github.com/mbostock/d3/wiki/Arrays#d3_min) and [max](https://github.com/mbostock/d3/wiki/Arrays#d3_max)

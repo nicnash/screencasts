@@ -1,4 +1,3 @@
-Placeholder
 
 D3 linear scale
  * Transform numbers from data space into pixel space

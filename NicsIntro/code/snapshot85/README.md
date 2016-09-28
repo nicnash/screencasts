@@ -1,4 +1,3 @@
-Placeholder
 
 population as logarithmic size
 

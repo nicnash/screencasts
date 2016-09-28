@@ -1,4 +1,3 @@
-Placeholder
 
 D3 getter setter functions
 
