@@ -1,3 +1,3 @@
 Placeholder
 
-The need for exit
+## Why were they not removed?

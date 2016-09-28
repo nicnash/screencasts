@@ -48,7 +48,7 @@ body {
   font-family: 'Raleway', sans-serif;
   color: #253634;
   height:300px;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .title-text a {

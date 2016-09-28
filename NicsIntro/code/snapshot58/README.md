@@ -10,6 +10,6 @@ The complete D3 pipeline
  * .enter no dom element but there is a data element. virtual selection.  Triggering on all data elements because there are no rects 
  * D3 allows you to cleanly use functions to manipulate data
  * .set x to return value from function
- * 
 
-## lets practice with this
+### This will take practice! Dont get discouraged
+## lets practice with this for a few minutes
