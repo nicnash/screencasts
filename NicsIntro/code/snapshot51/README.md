@@ -4,3 +4,4 @@ D3 method chaining
  * Could be one long line
  * Functional programming
  * A common pattern in D3
+ * !Cuidado¡ While most operations return the same selection, some methods return a new one! For example, selection.append returns a new selection containing the new elements. This conveniently allows you to chain operations into the new elements.
