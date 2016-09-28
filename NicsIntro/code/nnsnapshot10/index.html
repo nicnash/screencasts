@@ -2,9 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Image O' the day</title>
   </head>
   <body>
-    <img src="todaysImage.png" alt="">
+  	<section>Section 1</section>
+  	<section>Section 2</section>
+  	<section>Section 3</section>
+  	<script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+    	var section = d3.selectAll("section");
+    	var div = section.append("div");
+    	div.html("Hello, section!");
+    </script>
   </body>
 </html>
