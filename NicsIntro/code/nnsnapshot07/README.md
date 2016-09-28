@@ -1,10 +1,10 @@
 This Never Changes
 
-### It doesnt look like much but we will be Learning alot
 * Selection
-* Data
+* Data binding
 * Parsing Data
 * Scaling
+* Styling
 * AND MORE
 
 

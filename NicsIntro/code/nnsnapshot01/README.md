@@ -1,4 +1,5 @@
 This Never Changes
 
- * Which Programming language is for mee?
+ * Language Picker!
 <!-- * ![alt text](../code/nnsnapshot01/todaysImage.png "Logo Title Text 1") -->
+ * Life shrinks or expands in proportion to one's courage.	-Anais Nin
