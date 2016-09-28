@@ -154,7 +154,7 @@ app.directive('file', function(){
         $scope.file
       ].join('/');
       console.log('codemirror is working path',path);
-      var path = example.url;
+      // var path = example.runUrl;
       $http.get(path).success(function(data) {
         if(typeof(data) === 'object'){
           // un-parse auto-parsed JSON files for presentation as text
