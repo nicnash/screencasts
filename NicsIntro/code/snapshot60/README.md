@@ -1,4 +1,3 @@
-
 Splitting data binding and enter
 
 

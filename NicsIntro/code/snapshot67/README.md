@@ -1,4 +1,3 @@
-
 Using setTimeout
 
 Added a Transition

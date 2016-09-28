@@ -1,4 +1,3 @@
-
 Parsing CSV data
 D3 adds a way to interpret each line
 

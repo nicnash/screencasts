@@ -1,4 +1,3 @@
-
 D3 ordinal scale
 
  * Data with discrete values
