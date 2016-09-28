@@ -123,6 +123,7 @@ app.controller('ExampleDetailCtrl',
   examples.find($routeParams.exampleNumber, function(example) {
     $scope.example = example;
     $scope.runUrl = '../code/' + example.name;
+    console.log('HERE------------',$scope.runUrl);
     $http.get($scope.runUrl + '/README.md').success(function(data) {
       // Remove first line, as it appears elsewhere on the page (called 'message').
       var md = data.split('\n').splice(1).join('\n');
