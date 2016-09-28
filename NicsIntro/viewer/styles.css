@@ -48,7 +48,7 @@ body {
   font-family: 'Raleway', sans-serif;
   color: #253634;
   height:300px;
-  overflow-y: auto;
+  /*overflow-y: auto;*/
 }
 
 .title-text a {
@@ -85,7 +85,7 @@ body {
 
 .top-split {
   width: 100%;
-  height: 400px;
+  height: 350px;
 }
 
 .top-left {

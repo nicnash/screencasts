@@ -64,16 +64,19 @@ app.controller('MainCtrl', function ($scope, $document, $location, examples){
   // Show the iframe running the example code by default.
   // This can be toggled by pressing "p".
   $scope.showIFrame = true;
+  $scope.showRawCode = true;
 
   examples.list(function(examples){
 
     // These are key codes from key down events.
     var LEFT = 37,
         RIGHT = 39,
-        P = 80;
+        P = 80,
+        O = 79;
+
 
     $scope.onKeydown = function(e) {
-
+      console.log(e.keyCode);
       // Use left and right arrows for navigation
       if(e.keyCode === RIGHT || e.keyCode === LEFT){
         var path = $location.path(),
@@ -101,6 +104,9 @@ app.controller('MainCtrl', function ($scope, $document, $location, examples){
       // Use the "p" key to toggle visibility of the iframe.
       if(e.keyCode === P){
         $scope.showIFrame = !$scope.showIFrame;
+      }
+      if(e.keyCode === O){
+        $scope.showRawCode = !$scope.showRawCode;
       }
     };
   });

@@ -12,7 +12,7 @@
   </div>
 </div>
 
-<div class="files-container" ng-if="!example.isCodeHidden">
+<div class="files-container" ng-if="!example.isCodeHidden" ng-show="showRawCode">
   <div ng-repeat="file in example.files">
     <div class="file-name">{{file}}</div>
     <textarea file="file" example="example"></textarea>
